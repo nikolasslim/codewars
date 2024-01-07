@@ -1,3 +1,10 @@
+/*
 function howManyLightsabersDoYouOwn(name) {
-  name === "Zach" ? 18 : 0;
-}
+    if (name === "Zach") {
+      return 18;
+    } else {
+      return 0;
+    }
+  }*/
+
+///////
