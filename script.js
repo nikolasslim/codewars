@@ -34,3 +34,22 @@ function longest(s1, s2) {
 }
 */
 ////////////////////////////////////////////
+/*
+function solve(s) {
+  console.log(s);
+  let toUpper = 0;
+  let toLower = 0;
+  for (let i = 0; i < s.length; i++) {
+    console.log(s.charCodeAt(i));
+    s.charCodeAt(i) < 91 ? toUpper++ : toLower++;
+  }
+  if (toLower > toUpper) {
+    return s.toLowerCase();
+  } else if (toLower == toUpper) {
+    return s.toLowerCase();
+  } else {
+    return s.toUpperCase();
+  }
+}
+*/
+////////////////////////////////////////////
