@@ -7,4 +7,12 @@ function howManyLightsabersDoYouOwn(name) {
     }
   }*/
 
-///////
+////////////////////////////////////////////
+
+/*
+function take(arr, n) {
+  return arr.slice(0, n);
+}
+*/
+
+////////////////////////////////////////////
